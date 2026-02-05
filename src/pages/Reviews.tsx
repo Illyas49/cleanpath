@@ -160,7 +160,7 @@ export function Reviews() {
                     Each review provides a structured summary of how clearly a product communicates with users. Reviews are identified by category and focus area rather than promotional titles.
                   </p>
                   <p className="text-lg text-gray-700 leading-relaxed">
-                    All reviews follow the standardized CleanPath framework and are time-bound to the evaluation period. They do not constitute endorsements, recommendations, or quality assessments.
+                    All reviews follow the standardized XenoFlow framework and are time-bound to the evaluation period. They do not constitute endorsements, recommendations, or quality assessments.
                   </p>
                 </div>
               </div>
@@ -285,7 +285,7 @@ export function Reviews() {
 
                       <div className="mt-6 pt-6 border-t border-gray-200/50">
                         <p className="text-xs text-gray-500 italic leading-relaxed">
-                          This review was conducted using the CleanPath standardized evaluation framework and represents observations from the stated evaluation period. It does not constitute an endorsement or recommendation.
+                          This review was conducted using the XenoFlow standardized evaluation framework and represents observations from the stated evaluation period. It does not constitute an endorsement or recommendation.
                         </p>
                       </div>
                     </div>

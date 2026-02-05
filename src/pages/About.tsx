@@ -23,7 +23,7 @@ export function About() {
       <section className="bg-gradient-to-br from-gray-900 via-emerald-900 to-teal-900 text-white py-20">
         <div className="max-w-4xl mx-auto px-6">
           <AnimatedSection>
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">About CleanPath Reviews</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">About XenoFlow</h1>
             <p className="text-xl text-gray-200 leading-relaxed">
               An independent evaluation body dedicated to assessing communication clarity and transparency in digital products
             </p>
@@ -37,7 +37,7 @@ export function About() {
             <div className="bg-gradient-to-br from-emerald-50 to-teal-50 p-8 rounded-xl border border-emerald-200 mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Purpose</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                CleanPath Reviews was created to provide structured, independent evaluations of how clearly products communicate with users. We focus on observable communication patterns, information architecture, and user comprehension support.
+                XenoFlow was created to provide structured, independent evaluations of how clearly products communicate with users. We focus on observable communication patterns, information architecture, and user comprehension support.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Our mission is to contribute to greater transparency in digital product communication through systematic evaluation and public documentation.
@@ -83,7 +83,7 @@ export function About() {
               <div>
                 <h2 className="text-3xl font-bold text-gray-900 mb-4">Independence</h2>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  CleanPath Reviews operates independently and maintains strict separation from commercial interests.
+                  XenoFlow operates independently and maintains strict separation from commercial interests.
                 </p>
               </div>
             </div>
@@ -112,7 +112,7 @@ export function About() {
               <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
                 <h3 className="text-lg font-semibold text-gray-900 mb-3">No Endorsements</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  CleanPath Reviews does not endorse, recommend, rank, or promote products or services. Our evaluations are descriptive assessments of communication clarity, not quality judgments or purchasing guidance.
+                  XenoFlow does not endorse, recommend, rank, or promote products or services. Our evaluations are descriptive assessments of communication clarity, not quality judgments or purchasing guidance.
                 </p>
               </div>
             </AnimatedSection>
@@ -141,7 +141,7 @@ export function About() {
               <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
                 <h3 className="text-lg font-semibold text-gray-900 mb-3">Framework Development</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  The CleanPath evaluation framework is developed through analysis of user interaction patterns, communication best practices, and information architecture principles. Framework updates are documented and applied consistently to future reviews.
+                  The XenoFlow evaluation framework is developed through analysis of user interaction patterns, communication best practices, and information architecture principles. Framework updates are documented and applied consistently to future reviews.
                 </p>
               </div>
             </AnimatedSection>
@@ -219,7 +219,7 @@ export function About() {
             <div className="bg-gradient-to-br from-emerald-900 to-teal-900 text-white p-10 rounded-2xl">
               <h2 className="text-3xl font-bold mb-4">Commitment to Transparency</h2>
               <p className="text-emerald-50 text-lg leading-relaxed mb-6">
-                CleanPath Reviews is committed to operating with the same transparency we evaluate in others. Our framework, methodology, and independence standards are publicly documented.
+                XenoFlow is committed to operating with the same transparency we evaluate in others. Our framework, methodology, and independence standards are publicly documented.
               </p>
               <p className="text-emerald-50 leading-relaxed">
                 We continuously work to ensure our evaluation processes are rigorous, consistent, and aligned with our mission to support clearer communication in digital products.

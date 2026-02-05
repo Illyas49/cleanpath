@@ -68,7 +68,7 @@ export function Framework() {
                 </div>
                 <div className="pl-16 space-y-4">
                   <p className="text-lg text-gray-700 leading-relaxed">
-                    CleanPath Reviews applies a standardized review framework to assess clarity and transparency across products and services. Each review follows the same structure, enabling comparison across categories and time.
+                    XenoFlow applies a standardized review framework to assess clarity and transparency across products and services. Each review follows the same structure, enabling comparison across categories and time.
                   </p>
                   <p className="text-lg text-gray-700 leading-relaxed">
                     The framework is designed to be descriptive rather than prescriptive, focusing on observable communication patterns and user-facing information architecture.
@@ -93,7 +93,7 @@ export function Framework() {
               </div>
               <h2 className="text-4xl font-bold text-gray-900 mb-4">Evaluation Structure</h2>
               <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                Four core assessment areas that form the foundation of every CleanPath review
+                Four core assessment areas that form the foundation of every XenoFlow review
               </p>
             </div>
           </AnimatedSection>
@@ -328,7 +328,7 @@ export function Framework() {
             <div className="bg-amber-50 border-l-4 border-amber-500 p-8 rounded-lg">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">What Reviews Do Not Measure</h2>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                CleanPath Reviews focuses exclusively on communication clarity and transparency. Our evaluations do not assess:
+                XenoFlow focuses exclusively on communication clarity and transparency. Our evaluations do not assess:
               </p>
               <ul className="space-y-3 text-gray-700">
                 <li className="flex items-start">

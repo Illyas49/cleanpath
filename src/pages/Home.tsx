@@ -38,7 +38,7 @@ export function Home() {
               </AnimatedSection>
               <AnimatedSection delay={200}>
                 <p className="text-xl md:text-2xl text-emerald-100/90 leading-relaxed mb-10">
-                  CleanPath Reviews publishes structured evaluations examining how clearly emerging digital products and services communicate features, controls, and key information to users.
+                  XenoFlow publishes structured evaluations examining how clearly emerging digital products and services communicate features, controls, and key information to users.
                 </p>
               </AnimatedSection>
               <AnimatedSection delay={400}>
@@ -84,10 +84,10 @@ export function Home() {
           <AnimatedSection>
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-                About CleanPath Reviews
+                About XenoFlow
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                CleanPath Reviews is an independent review body focused on usability, communication clarity, and transparency.
+                XenoFlow is an independent review body focused on usability, communication clarity, and transparency.
               </p>
             </div>
           </AnimatedSection>
@@ -128,7 +128,7 @@ export function Home() {
                 What We Review
               </h2>
               <p className="text-lg text-gray-600 leading-relaxed">
-                CleanPath Reviews evaluates how products communicate and structure key elements
+                XenoFlow evaluates how products communicate and structure key elements
               </p>
             </div>
           </AnimatedSection>
@@ -432,7 +432,7 @@ export function Home() {
                   Independent and Structured
                 </h2>
                 <p className="text-xl text-emerald-50/90 leading-relaxed mb-8">
-                  CleanPath Reviews operates independently and applies a consistent evaluation framework across all reviews. We do not accept compensation tied to review outcomes and do not rank or endorse products.
+                  XenoFlow operates independently and applies a consistent evaluation framework across all reviews. We do not accept compensation tied to review outcomes and do not rank or endorse products.
                 </p>
                 <Link
                   to="/about"

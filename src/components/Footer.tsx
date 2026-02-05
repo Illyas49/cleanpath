@@ -16,7 +16,7 @@ export function Footer() {
                   <CheckCircle className="w-5 h-5 text-white" />
                 </div>
               </div>
-              <h3 className="text-white font-bold text-lg">CleanPath Reviews</h3>
+              <h3 className="text-white font-bold text-lg">XenoFlow</h3>
             </Link>
             <p className="text-sm leading-relaxed text-gray-400 max-w-md">
               Focused on clarity, communication, and transparency in digital products and services.
@@ -56,10 +56,10 @@ export function Footer() {
         <div className="border-t border-gray-800/50 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-gray-500 max-w-2xl text-center md:text-left">
-              CleanPath Reviews is an independent evaluation body. All reviews are informational and do not constitute endorsements or recommendations.
+              XenoFlow is an independent evaluation body. All reviews are informational and do not constitute endorsements or recommendations.
             </p>
             <p className="text-sm text-gray-600">
-              © 2026 CleanPath Reviews. All rights reserved.
+              © 2026 XenoFlow. All rights reserved.
             </p>
           </div>
         </div>

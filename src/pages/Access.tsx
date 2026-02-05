@@ -25,7 +25,7 @@ export function Access() {
           <AnimatedSection>
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Access & Scope</h1>
             <p className="text-xl text-gray-200 leading-relaxed">
-              Information about review access, scope limitations, and appropriate use of CleanPath evaluations
+              Information about review access, scope limitations, and appropriate use of XenoFlow evaluations
             </p>
           </AnimatedSection>
         </div>
@@ -40,7 +40,7 @@ export function Access() {
                 <div>
                   <h2 className="text-xl font-bold text-gray-900 mb-3">Review Access Overview</h2>
                   <p className="text-gray-700 leading-relaxed">
-                    CleanPath Reviews publishes public summaries of completed evaluations. Full review materials may be subject to access limitations depending on category, scope, and evaluation context.
+                    XenoFlow publishes public summaries of completed evaluations. Full review materials may be subject to access limitations depending on category, scope, and evaluation context.
                   </p>
                 </div>
               </div>
@@ -125,7 +125,7 @@ export function Access() {
             <div className="bg-white p-8 rounded-xl shadow-sm border border-gray-200 mb-8">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Evaluation Boundaries</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                CleanPath Reviews focuses exclusively on communication clarity and transparency assessment. Our evaluations are bounded by defined scope parameters:
+                XenoFlow focuses exclusively on communication clarity and transparency assessment. Our evaluations are bounded by defined scope parameters:
               </p>
               <div className="space-y-3 text-gray-700">
                 <div className="flex items-start">
@@ -160,7 +160,7 @@ export function Access() {
             <div className="bg-white p-8 rounded-xl shadow-sm border border-gray-200">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Category Coverage</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Not all product categories or service types are within CleanPath review scope. Evaluation feasibility depends on:
+                Not all product categories or service types are within XenoFlow review scope. Evaluation feasibility depends on:
               </p>
               <ul className="space-y-2 text-gray-700">
                 <li className="flex items-start">
@@ -177,7 +177,7 @@ export function Access() {
                 </li>
                 <li className="flex items-start">
                   <span className="text-gray-400 mr-2 mt-1">→</span>
-                  <span>Alignment with CleanPath assessment criteria and methodology</span>
+                  <span>Alignment with XenoFlow assessment criteria and methodology</span>
                 </li>
               </ul>
             </div>
@@ -193,9 +193,9 @@ export function Access() {
                 <AlertCircle className="w-10 h-10 text-red-600" />
               </div>
               <div>
-                <h2 className="text-3xl font-bold text-gray-900 mb-4">What CleanPath Does Not Provide</h2>
+                <h2 className="text-3xl font-bold text-gray-900 mb-4">What XenoFlow Does Not Provide</h2>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  To ensure appropriate use of review materials, it's important to understand what CleanPath Reviews does not offer:
+                  To ensure appropriate use of review materials, it's important to understand what XenoFlow does not offer:
                 </p>
               </div>
             </div>
@@ -215,7 +215,7 @@ export function Access() {
               <div className="bg-white p-6 rounded-lg border border-gray-200 shadow-sm">
                 <h3 className="font-bold text-gray-900 mb-3">Product Recommendations</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  CleanPath does not create "best of" lists, top picks, or product recommendations based on review findings.
+                  XenoFlow does not create "best of" lists, top picks, or product recommendations based on review findings.
                 </p>
               </div>
             </AnimatedSection>
@@ -288,7 +288,7 @@ export function Access() {
               <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-200">
                 <h3 className="text-lg font-semibold text-gray-900 mb-3">Framework Reference</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  Organizations developing communication standards or evaluation frameworks may reference CleanPath methodology and assessment criteria structures.
+                  Organizations developing communication standards or evaluation frameworks may reference XenoFlow methodology and assessment criteria structures.
                 </p>
               </div>
             </AnimatedSection>
@@ -305,7 +305,7 @@ export function Access() {
                 For inquiries regarding review access, scope boundaries, or appropriate use of evaluation materials, please refer to our published framework documentation and methodology guidelines.
               </p>
               <p className="text-gray-300 text-sm leading-relaxed">
-                CleanPath Reviews maintains clear boundaries around evaluation scope to ensure reviews remain focused on their core purpose: assessing communication clarity and transparency in digital products.
+                XenoFlow maintains clear boundaries around evaluation scope to ensure reviews remain focused on their core purpose: assessing communication clarity and transparency in digital products.
               </p>
             </div>
           </AnimatedSection>

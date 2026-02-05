@@ -36,7 +36,7 @@ export function EvaluationAreas() {
           <AnimatedSection>
             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-12">
               <p className="text-gray-700 leading-relaxed">
-                CleanPath Reviews organizes evaluations around five core assessment areas. Each area examines specific aspects of how products communicate with users, focusing on clarity, transparency, and user comprehension.
+                XenoFlow organizes evaluations around five core assessment areas. Each area examines specific aspects of how products communicate with users, focusing on clarity, transparency, and user comprehension.
               </p>
             </div>
           </AnimatedSection>
